@@ -1,4 +1,4 @@
-package com.sau.flowcontrol;
+package workshop;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
